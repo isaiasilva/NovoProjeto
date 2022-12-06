@@ -5,6 +5,7 @@ var nome
 var n1
 var n2
 var média
+var brasil
 
 (Digite seu nome, String nome)
 
@@ -14,7 +15,3 @@ var média
 media = n1+n2/2
 
 Print(A média é, media)
-
-szfkjd gpusdbvzcx~koahbõi dFH ÕIUHDF~B
-SJBDA~FHGB
-
