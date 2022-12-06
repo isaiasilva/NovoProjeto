@@ -1,0 +1,31 @@
+BUGs
+https://sinergiastudios.atlassian.net/browse/GOG-2700
+https://sinergiastudios.atlassian.net/browse/GOG-2706
+https://sinergiastudios.atlassian.net/browse/GOG-2718
+https://sinergiastudios.atlassian.net/browse/GOG-2709
+https://sinergiastudios.atlassian.net/browse/GOG-2719
+
+
+
+titulo:foto enviada no chat apos aberta fica em horizontal 
+
+1:Na pagina inicial de "chat" va em um grupo
+2:e mande uma foto na vertical 
+3:verificado: incorretamente a foto fica na horizontal 
+
+resultado esperado: que toda foto vertical fique em posiçao vertical
+resultado atual:foto enviada no chat apos aberta fica em horizontal 
+
+===========================
+
+titulo:Ao tirar uma foto pra e mandar ne um grupo e dito frase seguinte:"um erro ocorreu ao enviar mensagem ,tente novamente mais tarde!"
+1:pagina chat inicial va em um grupo qualquer 
+2:apos entrar no grupo va na aba da camera 
+3:tire uma foto e envie 
+4:verificado:estar dando erro dizendo a seguinte palavra "um erro ocorreu ao enviar mensagem ,tente novamente mais tarde!"
+5:foto nao envia e da erro !
+
+resultado esperado: que possamos tirar as foto e conseguir envia no grupo !
+resultado atual:nao consigo enviar fotos tirada no momento !
+
+==================================

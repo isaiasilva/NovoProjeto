@@ -1,0 +1,16 @@
+Olá Galera do curso de fundamentos de programação
+na IBBI
+
+var nome
+var n1
+var n2
+var média
+
+(Digite seu nome, String nome)
+
+(Digite a nota1, Integer n1)
+(Digite a nota2, Integer n2)
+
+media = n1+n2/2
+
+Print(A média é, media)
