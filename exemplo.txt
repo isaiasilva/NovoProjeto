@@ -14,3 +14,4 @@ var média
 media = n1+n2/2
 
 Print(A média é, media)
+
